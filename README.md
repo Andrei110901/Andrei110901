@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Andrei110901
+- 👀 I’m interested in decentralization.
+- 🌱 I’m currently studying computer science and engineering.
+- 💞️ I’m looking to collaborate on open-source projects.
+- 📫 How to reach me - send me an email at andreimanastireanu.9@gmail.com.
