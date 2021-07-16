@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @Andrei110901
-- 👀 I’m interested in decentralization.
-- 🌱 I’m currently studying computer science and engineering.
-- 📫 How to reach me - send me an email at andreimanastireanu.9@gmail.com.
+-Hi, I’m Andrei Manastireanu!
+-How to reach me - send me an email at andreimanastireanu.9@gmail.com.
