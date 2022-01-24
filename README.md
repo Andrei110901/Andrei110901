@@ -1,2 +1,1 @@
--Hi, I’m Andrei Manastireanu! <br>
--How to reach me - send me an email at andreimanastireanu.9@gmail.com.
+
